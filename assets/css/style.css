@@ -1,9 +1,7 @@
 
-body {
-	background: url("../images/tarot2.jpg");
-	background-repeat: no-repeat;	
-	background-color: #1f1c2d;
-	
+.main {
+		background-image: url("../images/tarot2.jpg");
+		background-repeat: no-repeat;	
 
 }
 
@@ -18,8 +16,9 @@ body {
 
 .list-group {
 	float: right;
-	margin-top: 100px;
+	margin-top: 50px;
 	width: 300px;
+	height: 250px;
 	margin-right: 20px;
 	
 }
