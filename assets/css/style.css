@@ -1,12 +1,13 @@
 
 .main {
-		background-image: url("../images/tarot2.jpg");
+		background-image: url("../images/tarotgame.png");
 		background-repeat: no-repeat;	
 
 }
 
 .panel {
 	font-size: 20px;
+	font-color: #1c3b55;
 	width: 300px;
 	height: 350px;
 	margin-right: 50px;
